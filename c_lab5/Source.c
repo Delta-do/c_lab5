@@ -65,6 +65,20 @@ void t3()
 	printf("%d\n", tb);
 }
 
+void th()
+{
+	double x, y, z, w;
+	printf("x = ");
+	scanf_s("%lg", &x);
+	printf("y = ");
+	scanf_s("%lg", &y);
+	printf("z = ");
+	scanf_s("%lg", &z);
+
+	w = pow(fabs(cos(x) - cos(y)), 1 + 2 * pow(sin(y), 2)) * (1 + z + pow(z, 2) / 2. + pow(z, 3) / 3. + pow(z, 4) / 4.);
+	printf("w = %.4f", w);
+}
+
 void main()
 {
 	setlocale(LC_ALL, "RUS");
@@ -76,5 +90,7 @@ void main()
 	//t2();
 
 	//3 задание
-	t3();
+	//t3();
+
+	th(); //4 вариант
 }

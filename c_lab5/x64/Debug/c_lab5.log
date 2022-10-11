@@ -1,7 +1,7 @@
 ﻿  Source.c
-C:\Users\TEMP.1406-02\source\repos\c_lab5\c_lab5\Source.c(13,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Users\TEMP.1406-02\source\repos\c_lab5\c_lab5\Source.c(16,8): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Users\TEMP.1406-02\source\repos\c_lab5\c_lab5\Source.c(54,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-C:\Users\TEMP.1406-02\source\repos\c_lab5\c_lab5\Source.c(55,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-C:\Users\TEMP.1406-02\source\repos\c_lab5\c_lab5\Source.c(56,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-  c_lab5.vcxproj -> C:\Users\TEMP.1406-02\source\repos\c_lab5\x64\Debug\c_lab5.exe
+C:\Users\Maria\source\repos\c_lab5\c_lab5\Source.c(13,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maria\source\repos\c_lab5\c_lab5\Source.c(16,8): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maria\source\repos\c_lab5\c_lab5\Source.c(54,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Maria\source\repos\c_lab5\c_lab5\Source.c(55,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Maria\source\repos\c_lab5\c_lab5\Source.c(56,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  c_lab5.vcxproj -> C:\Users\Maria\source\repos\c_lab5\x64\Debug\c_lab5.exe
